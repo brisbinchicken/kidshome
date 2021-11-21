@@ -10,19 +10,19 @@ const defaultConfig = `{
         {
             "category": "Streaming",
             "bookmarks": [
-                { "label": "ABC Kids Shows",        "url": "https://www.abc.net.au/abckids/shows/" },
-                { "label": "ABC ME Live",           "url": "https://iview.abc.net.au/show/abc3-live-stream" },
-                { "label": "ABC Kids Live",         "url": "https://iview.abc.net.au/show/abc-kids-live-stream" },
-                { "label": "Nick Jnr (Foxtel)",     "url": "https://www.watch.foxtel.com.au/app/#/live/njr" }
+                { "label": "ABC Kids Shows",        "url": "https://ab.co/32lknBI" },
+                { "label": "ABC ME Live",           "url": "https://ab.co/32mSzwP" },
+                { "label": "ABC Kids Live",         "url": "https://ab.co/3kVaPnt" },
+                { "label": "Nick Jnr (Foxtel)",     "url": "https://bit.ly/30HC0eD" }
             ]
         },
         {
             "category": "Pirate Streaming",
             "bookmarks": [
-                { "label": "Disney XD",             "url": "http://live94today.com/watch/disney-xd/" },
-                { "label": "Disney Channel",        "url": "http://live94today.com/watch/disney-channel/" },
-                { "label": "Cartoon Network",       "url": "http://live94today.com/watch/cartoon-network-02032021/" },
-                { "label": "Disney Jnr",            "url": "http://live94today.com/watch/disney-junior/" }
+                { "label": "Disney XD",             "url": "https://bit.ly/3DDzrZb" },
+                { "label": "Disney Channel",        "url": "https://bit.ly/3cEPSZ7" },
+                { "label": "Cartoon Network",       "url": "https://bit.ly/3HILTci" },
+                { "label": "Disney Jnr",            "url": "https://bit.ly/3oQzhXY" }
             ]
         },
         {
