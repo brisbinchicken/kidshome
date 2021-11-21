@@ -24,24 +24,6 @@ const defaultConfig = `{
                 { "label": "Cartoon Network",       "url": "https://bit.ly/3HILTci" },
                 { "label": "Disney Jnr",            "url": "https://bit.ly/3oQzhXY" }
             ]
-        },
-        {
-            "category": "Utilities",
-            "bookmarks": [
-                { "label": "Proton Mail",               "url": "https://mail.protonmail.com/u/0/inbox" },
-                { "label": "Photopea",                  "url": "https://www.photopea.com/" },
-                { "label": "The Pirate Bay",            "url": "https://thepiratebay.org/index.html" },
-                { "label": "Spotify",                   "url": "https://open.spotify.com/" }
-            ]
-        },
-        {
-            "category": "Other",
-            "bookmarks": [
-                { "label": "ABC News",                  "url": "https://www.abc.net.au/news/" },
-                { "label": "r/piracy",                  "url": "https://www.reddit.com/r/Piracy/" },
-                { "label": "Freeview TV",               "url": "https://www.freeview.com.au/watch-tv" },
-                { "label": "Bureau of Meteorology",     "url": "https://bit.ly/3y7hFKk" }
-            ]
         }
     ],
 
