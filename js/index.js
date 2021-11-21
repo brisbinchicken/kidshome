@@ -13,7 +13,7 @@ const defaultConfig = `{
                 { "label": "ABC Kids Shows",        "url": "https://ab.co/32lknBI" },
                 { "label": "ABC ME Live",           "url": "https://ab.co/32mSzwP" },
                 { "label": "ABC Kids Live",         "url": "https://ab.co/3kVaPnt" },
-                { "label": "Nick Jnr (Foxtel)",     "url": "https://bit.ly/30HC0eD" }
+                { "label": "Nick Jnr (Foxtel)",     "url": "https://bit.ly/3nzt8jK" }
             ]
         },
         {
