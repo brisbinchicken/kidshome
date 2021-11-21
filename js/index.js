@@ -63,7 +63,7 @@ const defaultConfig = `{
     },
 
     "background": {
-        "url": "https://wallpaper.dog/large/10714944.jpg",
+        "url": "https://free4kwallpapers.com/uploads/originals/2019/09/30/codename-kids-next-door-wallpaper.jpg",
         "snow": {
             "enabled": false,
             "count": 200
