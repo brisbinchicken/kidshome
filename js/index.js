@@ -10,19 +10,19 @@ const defaultConfig = `{
         {
             "category": "Streaming",
             "bookmarks": [
-                { "label": "YouTube",               "url": "https://www.youtube.com" },
-                { "label": "Netflix",               "url": "https://www.netflix.com" },
-                { "label": "Stan",                  "url": "https://www.stan.com.au" },
-                { "label": "Kayo Sports",           "url": "https://kayosports.com.au/" }
+                { "label": "ABC Kids Shows",        "url": "https://www.abc.net.au/abckids/shows/" },
+                { "label": "ABC ME Live",           "url": "https://iview.abc.net.au/show/abc3-live-stream" },
+                { "label": "ABC Kids Live",         "url": "https://iview.abc.net.au/show/abc-kids-live-stream" },
+                { "label": "Nick Jnr (Foxtel)",     "url": "https://www.watch.foxtel.com.au/app/#/live/njr" }
             ]
         },
         {
             "category": "Pirate Streaming",
             "bookmarks": [
-                { "label": "Movies/TV HQ",              "url": "https://www3.musichq.net/" },
-                { "label": "Flixtor",                   "url": "https://flixtor.video/home" },
-                { "label": "Watch Cartoons",            "url": "https://www.wco.tv/" },
-                { "label": "Sports Urge",            "url": "https://sportsurge.net/#/groups/0" }
+                { "label": "Disney XD",             "url": "http://live94today.com/watch/disney-xd/" },
+                { "label": "Disney Channel",        "url": "http://live94today.com/watch/disney-channel/" },
+                { "label": "Cartoon Network",       "url": "http://live94today.com/watch/cartoon-network-02032021/" },
+                { "label": "Disney Jnr",            "url": "http://live94today.com/watch/disney-junior/" }
             ]
         },
         {
