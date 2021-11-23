@@ -8,23 +8,35 @@ document.addEventListener("DOMContentLoaded", function (event) {
 const defaultConfig = `{
     "bookmarks": [
         {
-            "category": "Streaming",
             "bookmarks": [
                 { "label": "ABC Kids Shows",        "url": "https://ab.co/32lknBI" },
                 { "label": "ABC ME Live",           "url": "https://ab.co/32mSzwP" },
                 { "label": "ABC Kids Live",         "url": "https://ab.co/3kVaPnt" },
-                { "label": "Nick Jnr (Foxtel)",     "url": "https://bit.ly/3nzt8jK" }
+                { "label": "Netflix Kids",     "url": "https://www.netflix.com/Kids" }
             ]
         },
         {
-            "category": "Pirate Streaming",
             "bookmarks": [
                 { "label": "Disney XD",             "url": "https://bit.ly/3DDzrZb" },
                 { "label": "Disney Channel",        "url": "https://bit.ly/3cEPSZ7" },
                 { "label": "Cartoon Network",       "url": "https://bit.ly/3HILTci" },
                 { "label": "Disney Jnr",            "url": "https://bit.ly/3oQzhXY" }
             ]
+        },
+        {
+            "bookmarks": [
+                { "label": "Nick Jnr (Foxtel)",     "url": "https://bit.ly/3nzt8jK" },
+                { "label": "CBeebies (Foxtel)",     "url": "https://bit.ly/3l0vjes" },
+                { "label": "YouTube",               "url": "https://www.youtube.com/" },
+                { "label": "YouTube Kids",          "url": "https://www.youtubekids.com/" }
+            ]
+        },
+        {
+            "bookmarks": [
+                { "label": "The Worst Witch (1998)","url": "shorturl.at/mBD68" }
+            ]
         }
+        
     ],
 
     "bookmarkOptions": {
