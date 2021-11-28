@@ -57,7 +57,7 @@ const defaultConfig = `{
     },
 
     "background": {
-        "url": "https://www.teahub.io/photos/full/213-2132165_inspiration-country-christmas-desktop-backgrounds-regarding-christmas-desktop..jpg",
+        "url": "https://wallpapercave.com/wp/wp4980072.jpg",
         "snow": {
             "enabled": false,
             "count": 200
