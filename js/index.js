@@ -57,7 +57,7 @@ const defaultConfig = `{
     },
 
     "background": {
-        "url": "https://free4kwallpapers.com/uploads/originals/2019/09/30/codename-kids-next-door-wallpaper.jpg",
+        "url": "https://www.teahub.io/photos/full/17-176727_christmas-desktop-wallpaper-free-download-data-src-winter..jpg",
         "snow": {
             "enabled": false,
             "count": 200
