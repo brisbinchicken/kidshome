@@ -57,7 +57,7 @@ const defaultConfig = `{
     },
 
     "background": {
-        "url": "https://www.teahub.io/photos/full/17-176727_christmas-desktop-wallpaper-free-download-data-src-winter..jpg",
+        "url": "https://www.teahub.io/photos/full/213-2132165_inspiration-country-christmas-desktop-backgrounds-regarding-christmas-desktop..jpg",
         "snow": {
             "enabled": false,
             "count": 200
